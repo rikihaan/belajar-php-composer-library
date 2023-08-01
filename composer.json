@@ -1,0 +1,17 @@
+{
+    "name": "titipinformatika/sayhello",
+    "description": "belajar membuat library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Titip Informatika",
+            "email": "titip.informatika@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TitipInformatika\\Belajar\\":"src/"
+        }
+    },
+    "require": {}
+}
