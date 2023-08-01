@@ -11,5 +11,9 @@ class Custumer {
         return "Hello $name my name is {$this->name}";
     }
 
+    public function sayGoodBye(string $name):string{
+        return "Good Bye $name See you Next Time myname is {$this->name}";
+    }
+
     
 }
